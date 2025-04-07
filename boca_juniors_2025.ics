@@ -94,13 +94,13 @@ DTEND;TZID=America/Argentina/Buenos_Aires:20250420T220000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs River Plate
-DESCRIPTION: Torneo Apertura
+DESCRIPTION:Apertura
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250427T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250427T220000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Tigre
-DESCRIPTION: Torneo Apertura
+DESCRIPTION:Apertura
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250504T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250504T220000
 END:VEVENT
