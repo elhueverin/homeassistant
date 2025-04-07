@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs ruben
 DESCRIPTION:Torneo: Torneo Apertura
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250407T105500
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250407T110000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250407T123000
 END:VEVENT
 BEGIN:VEVENT
