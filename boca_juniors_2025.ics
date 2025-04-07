@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Argentinos Juniors
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250126T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250126T210000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Unión
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250129T191500
+DTEND;TZID=America/Argentina/Buenos_Aires:20250129T211500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Huracán
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250202T191500
+DTEND;TZID=America/Argentina/Buenos_Aires:20250202T211500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Racing Club
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250208T213000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250208T233000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Independiente Rivadavia
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250211T191500
+DTEND;TZID=America/Argentina/Buenos_Aires:20250211T211500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Banfield
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250214T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250214T220000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Aldosivi
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250222T191500
+DTEND;TZID=America/Argentina/Buenos_Aires:20250222T211500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Rosario Central
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250228T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250228T220000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Central Córdoba
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250307T211500
+DTEND;TZID=America/Argentina/Buenos_Aires:20250307T231500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Defensa y Justicia
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250316T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250316T203000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Newell’s Old Boys
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250330T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250330T220000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Barracas Central
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250406T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250406T220000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Belgrano
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250413T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250413T220000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Estudiantes de La Plata
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250420T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250420T220000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs River Plate
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250427T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250427T220000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Tigre
+DESCRIPTION:Torneo: Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250504T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250504T220000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Argentino de Monte Maíz
+DESCRIPTION:Torneo: Copa Argentina
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250122T211000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250122T231000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Alianza Lima (ida)
+DESCRIPTION:Torneo: Copa Libertadores
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250218T213000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250218T233000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Alianza Lima (vuelta)
+DESCRIPTION:Torneo: Copa Libertadores
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250225T213000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250225T233000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Benfica
+DESCRIPTION:Torneo: Mundial de Clubes
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250616T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250616T220000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Bayern Múnich
+DESCRIPTION:Torneo: Mundial de Clubes
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250620T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250620T220000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Auckland City
+DESCRIPTION:Torneo: Mundial de Clubes
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250624T200000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250624T220000
+END:VEVENT
+END:VCALENDAR
