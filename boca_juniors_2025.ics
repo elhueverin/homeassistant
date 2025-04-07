@@ -76,67 +76,67 @@ DTEND;TZID=America/Argentina/Buenos_Aires:20250406T220000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs ruben
-DESCRIPTION:Torneo: Torneo Apertura
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250407T114000
+DESCRIPTION:Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250407T114600
 DTEND;TZID=America/Argentina/Buenos_Aires:20250407T123000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Belgrano
-DESCRIPTION:Torneo: Torneo Apertura
+DESCRIPTION:Torneo Apertura
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250413T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250413T220000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Estudiantes de La Plata
-DESCRIPTION:Torneo: Torneo Apertura
+DESCRIPTION: Torneo Apertura
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250420T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250420T220000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs River Plate
-DESCRIPTION:Torneo: Torneo Apertura
+DESCRIPTION: Torneo Apertura
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250427T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250427T220000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Tigre
-DESCRIPTION:Torneo: Torneo Apertura
+DESCRIPTION: Torneo Apertura
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250504T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250504T220000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Argentino de Monte Maíz
-DESCRIPTION:Torneo: Copa Argentina
+DESCRIPTION: Copa Argentina
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250122T211000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250122T231000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Alianza Lima (ida)
-DESCRIPTION:Torneo: Copa Libertadores
+DESCRIPTION: Copa Libertadores
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250218T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250218T233000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Alianza Lima (vuelta)
-DESCRIPTION:Torneo: Copa Libertadores
+DESCRIPTION: Copa Libertadores
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250225T213000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250225T233000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Benfica
-DESCRIPTION:Torneo: Mundial de Clubes
+DESCRIPTION: Mundial de Clubes
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250616T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250616T220000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Bayern Múnich
-DESCRIPTION:Torneo: Mundial de Clubes
+DESCRIPTION: Mundial de Clubes
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250620T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250620T220000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Auckland City
-DESCRIPTION:Torneo: Mundial de Clubes
+DESCRIPTION: Mundial de Clubes
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250624T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250624T220000
 END:VEVENT
