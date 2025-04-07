@@ -75,12 +75,6 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20250406T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250406T220000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boca Juniors vs ruben
-DESCRIPTION:Apertura
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250407T115500
-DTEND;TZID=America/Argentina/Buenos_Aires:20250407T123000
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Belgrano
 DESCRIPTION: Apertura
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250413T200000
