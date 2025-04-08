@@ -7,8 +7,8 @@ X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
 UID:0-libres_1@f1-2025
 DTSTAMP:20250407T181544Z
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250408T115100
-DTEND;TZID=America/Argentina/Buenos_Aires:20250408T115900
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250408T115600
+DTEND;TZID=America/Argentina/Buenos_Aires:20250408T135900
 SUMMARY:Australia - Libres 1
 LOCATION:Albert Park
 END:VEVENT
