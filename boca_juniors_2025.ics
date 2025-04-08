@@ -71,8 +71,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs El Hueverin
 DESCRIPTION:Apertura
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250408T193000
-DTEND;TZID=America/Argentina/Buenos_Aires:20250408T220000
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250406T193000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250406T220000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Belgrano
