@@ -69,10 +69,10 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20250330T200000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250330T220000
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boca Juniors vs Barracas Central
-DESCRIPTION:Torneo: Torneo Apertura
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250406T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20250406T220000
+SUMMARY:Boca Juniors vs El Hueverin
+DESCRIPTION:Torneo Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250408T183000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250408T220000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Belgrano
