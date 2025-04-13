@@ -95,8 +95,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tigre vs Boca Juniors
 DESCRIPTION:Apertura
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250504T
-DTEND;TZID=America/Argentina/Buenos_Aires:20250504T
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250504T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250504T000000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Atlético Tucumán
