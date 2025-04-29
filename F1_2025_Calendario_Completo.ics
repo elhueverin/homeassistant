@@ -215,9 +215,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5-sprint@f1-2025
 DTSTAMP:20250407T181544Z
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250503T130000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250503T140000
+SUMMARY:Miami - Sprint
+LOCATION:Miami International Autodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:5-clasificacion@f1-2025
+DTSTAMP:20250407T181544Z
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250503T170000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250503T180000
-SUMMARY:Miami - Sprint
+SUMMARY:Miami - Clasificacion
 LOCATION:Miami International Autodrome
 END:VEVENT
 BEGIN:VEVENT
