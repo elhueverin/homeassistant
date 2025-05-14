@@ -105,6 +105,12 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20250510T210000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250510T230000
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Independiente
+DESCRIPTION:Apertura
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250519T213000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250519T233000
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Atlético Tucumán
 DESCRIPTION: Copa Argentina
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250607T230000
