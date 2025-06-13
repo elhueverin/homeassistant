@@ -359,32 +359,32 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9-libres_1@f1-2025
 DTSTAMP:20250407T181544Z
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250613T123000
-DTEND;TZID=America/Argentina/Buenos_Aires:20250613T133000
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250613T143000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250613T153000
 SUMMARY:Canadá - Libres 1
 LOCATION:Circuit Gilles Villeneuve
 END:VEVENT
 BEGIN:VEVENT
 UID:9-libres_2@f1-2025
 DTSTAMP:20250407T181544Z
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250613T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20250613T173000
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250613T180000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250613T193000
 SUMMARY:Canadá - Libres 2
 LOCATION:Circuit Gilles Villeneuve
 END:VEVENT
 BEGIN:VEVENT
 UID:9-libres_3@f1-2025
 DTSTAMP:20250407T181544Z
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250614T123000
-DTEND;TZID=America/Argentina/Buenos_Aires:20250614T133000
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250614T133000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250614T143000
 SUMMARY:Canadá - Libres 3
 LOCATION:Circuit Gilles Villeneuve
 END:VEVENT
 BEGIN:VEVENT
 UID:9-clasificacion@f1-2025
 DTSTAMP:20250407T181544Z
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250614T163000
-DTEND;TZID=America/Argentina/Buenos_Aires:20250614T173000
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250614T170000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250614T183000
 SUMMARY:Canadá - Clasificacion
 LOCATION:Circuit Gilles Villeneuve
 END:VEVENT
@@ -392,7 +392,7 @@ BEGIN:VEVENT
 UID:9-carrera@f1-2025
 DTSTAMP:20250407T181544Z
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250615T150000
-DTEND;TZID=America/Argentina/Buenos_Aires:20250615T160000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250615T170000
 SUMMARY:Canadá - Carrera
 LOCATION:Circuit Gilles Villeneuve
 END:VEVENT
