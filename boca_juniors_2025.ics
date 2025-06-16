@@ -119,8 +119,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Benfica
 DESCRIPTION: Mundial de Clubes
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250616T200000
-DTEND;TZID=America/Argentina/Buenos_Aires:20250616T220000
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250616T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250616T210000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Bayern Múnich
