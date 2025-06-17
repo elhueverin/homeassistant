@@ -125,8 +125,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Bayern Múnich
 DESCRIPTION: Mundial de Clubes
-DTSTART;TZID=America/Argentina/Buenos_Aires:20250620T230000
-DTEND;TZID=America/Argentina/Buenos_Aires:20250621T010000
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250620T210000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250620T230000
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boca Juniors vs Auckland City
