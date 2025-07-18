@@ -4,7 +4,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 
 BEGIN:VEVENT
-SUMMARY:Boca Juniors vs Unión (Santa Fe)
+SUMMARY:Boca Juniors vs Unión de santa fe
 DESCRIPTION:Liga Profesional de Fútbol
 DTSTART;TZID=America/Argentina/Buenos_Aires:20250718T193000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250718T213000
