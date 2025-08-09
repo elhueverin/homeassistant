@@ -24,4 +24,11 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20250727T183000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250727T203000
 END:VEVENT
 
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Racing Club
+DESCRIPTION:Liga Profesional de Fútbol
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250809T163000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250809T183000
+END:VEVENT
+
 END:VCALENDAR
