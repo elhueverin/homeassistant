@@ -52,4 +52,35 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20250927T190000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250927T213000
 END:VEVENT
 
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Newell`s
+DESCRIPTION:Liga Profesional de Fútbol
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251005T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251005T000000
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Barraca Central vs Boca Juniors
+DESCRIPTION:Liga Profesional de Fútbol
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251012T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251012T000000
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Belgrano
+DESCRIPTION:Liga Profesional de Fútbol
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251019T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251019T000000
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Estudiantes vs Boca Juniors
+DESCRIPTION:Liga Profesional de Fútbol
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251102T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251102T000000
+END:VEVENT
+
+
 END:VCALENDAR
+
+
