@@ -60,7 +60,7 @@ DTEND;TZID=America/Argentina/Buenos_Aires:20251005T000000
 END:VEVENT
 
 BEGIN:VEVENT
-SUMMARY:Barraca Central vs Boca Juniors
+SUMMARY:Barracas Central vs Boca Juniors
 DESCRIPTION:Liga Profesional de Fútbol
 DTSTART;TZID=America/Argentina/Buenos_Aires:20251012T000000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251012T000000
