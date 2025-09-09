@@ -31,4 +31,25 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20250809T163000
 DTEND;TZID=America/Argentina/Buenos_Aires:20250809T183000
 END:VEVENT
 
+BEGIN:VEVENT
+SUMMARY:Rosario Central vs Boca Juniors
+DESCRIPTION:Liga Profesional de Fútbol
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250914T173000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250914T203000
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Central Cordoba
+DESCRIPTION:Liga Profesional de Fútbol
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250921T211500
+DTEND;TZID=America/Argentina/Buenos_Aires:20250921T233000
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Defensa Y Justicia vs Boca Juniors
+DESCRIPTION:Liga Profesional de Fútbol
+DTSTART;TZID=America/Argentina/Buenos_Aires:20250927T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20250927T213000
+END:VEVENT
+
 END:VCALENDAR
