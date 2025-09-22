@@ -80,6 +80,20 @@ DTSTART;TZID=America/Argentina/Buenos_Aires:20251102T000000
 DTEND;TZID=America/Argentina/Buenos_Aires:20251102T000000
 END:VEVENT
 
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs River Plate
+DESCRIPTION:Liga Profesional de Fútbol
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251109T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251109T000000
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Boca Juniors vs Tigre
+DESCRIPTION:Liga Profesional de Fútbol
+DTSTART;TZID=America/Argentina/Buenos_Aires:20251116T000000
+DTEND;TZID=America/Argentina/Buenos_Aires:20251116T000000
+END:VEVENT
+
 
 END:VCALENDAR
 
